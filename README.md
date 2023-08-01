@@ -15,7 +15,8 @@
       <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
     </td>
    <tr/>
-  #2
+</table>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/lee-young-jik">
@@ -29,8 +30,5 @@
       <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
     </td>
    <tr/>
-
-   
-   
 </table>
 <hr/>
