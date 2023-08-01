@@ -17,7 +17,7 @@
 
    <td align="center">
       <a href="https://github.com/AhnHz">
-        <img src="https://avatars.githubusercontent.com/u/137972957?v=4"width="100px;" alt=""/>
+        <img src="https://github.com/AhnHz/Algorithm-study-LeetCode/assets/132975657/6fd97d13-62b0-4cf6-86da-2987873c5015"width="100px;" alt=""/>
         <br />
         <sub>
           <b>AhnHz</b>
