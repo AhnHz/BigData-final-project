@@ -51,7 +51,6 @@
       <br />
       <a href="https://github.com/sennee" title="Code">🏠</a>
     </td>
-
    <td align="center">
       <a href="https://github.com/YoonJJuny">
         <img src="https://avatars.githubusercontent.com/u/134353451?v=4"width="100px;" alt=""/>
