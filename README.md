@@ -53,15 +53,15 @@
     </td>
 
    <td align="center">
-      <a href="https://github.com/lee-young-jik">
-        <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
+      <a href="https://github.com/YoonJJuny">
+        <img src="[https://avatars.githubusercontent.com/u/134353451?v=4"width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>YoonJJuny</b>
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
+      <a href="https://github.com/YoonJJuny" title="Code">🏠</a>
     </td>
 
   
