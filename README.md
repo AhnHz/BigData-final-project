@@ -42,7 +42,7 @@
 
    <td align="center">
       <a href="https://github.com/sennee">
-        <img src="(https://avatars.githubusercontent.com/u/137972957?v=4"width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/137972957?v=4"width="100px;" alt=""/>
         <br />
         <sub>
           <b>sennee</b>
