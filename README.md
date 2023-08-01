@@ -54,7 +54,7 @@
 
    <td align="center">
       <a href="https://github.com/YoonJJuny">
-        <img src="[https://avatars.githubusercontent.com/u/134353451?v=4"width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/134353451?v=4"width="100px;" alt=""/>
         <br />
         <sub>
           <b>YoonJJuny</b>
