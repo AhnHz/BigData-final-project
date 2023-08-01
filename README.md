@@ -42,7 +42,7 @@
 
    <td align="center">
       <a href="https://github.com/lee-young-jik">
-        <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/62950552?v=4"width="100px;" alt=""/>
         <br />
         <sub>
           <b>Lee Young Jik</b>
