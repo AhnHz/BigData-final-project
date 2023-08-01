@@ -20,7 +20,7 @@
         <img src="https://avatars.githubusercontent.com/u/132975657?v=4"width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>AhnHz</b>
         </sub>
       </a>
       <br />
@@ -29,15 +29,15 @@
 
     
    <td align="center">
-      <a href="https://github.com/lee-young-jik">
+      <a href="https://github.com/jea0902">
         <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Lee Young Jik</b>
+          <b>jea0902</b>
         </sub>
       </a>
       <br />
-      <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
+      <a href="https://github.com/jea0902" title="Code">🏠</a>
     </td>
 
    <td align="center">
