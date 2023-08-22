@@ -75,9 +75,8 @@
 
 
 <br>
-###사용스택
-![사용스택](https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762)
 
+<img width="80%" src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762e0"/>
 
 
 
