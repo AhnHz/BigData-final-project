@@ -73,7 +73,6 @@
 
 <br>
 
-
-<img width="80%" src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762e0"/>
+<img width="80%" src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762"/>
 
 
