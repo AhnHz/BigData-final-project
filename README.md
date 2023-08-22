@@ -72,8 +72,8 @@
 <hr/>
 
 <br>
-<img src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762e0" width="100px;" alt=""/>
 
 
+<img width="80%" src="https://github.com/lee-young-jik/BigData_Final_Project/issues/1#issue-1860908762e0"/>
 
 
